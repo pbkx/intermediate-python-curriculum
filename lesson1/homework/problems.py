@@ -1,28 +1,27 @@
 # Problem 1
-# Ask the user for a word.
-# Print the word reversed using slicing.
+# Ask the user for two numbers.
+# Print their sum, difference, and product.
 
 
 
 # Problem 2
-# Ask the user for a word and a letter.
-# Print how many times the letter appears in the word (case-insensitive).
+# Ask the user for a number.
+# Print whether the number is even or odd.
 
 
 
 # Problem 3
-# Ask the user for an email address like "name@example.com".
-# Print only the part after the @ (example: "example.com").
+# Create a list of numbers.
+# Print the biggest number in the list.
 
 
 
 # Problem 4
-# Ask the user for a word.
-# Print the word without the first and last character.
+# Use a while loop to print the numbers from 1 to 10.
 
 
 
 # Problem 5
-# Ask the user for a sentence.
-# Print "Long" if the sentence has more than 20 characters (including spaces),
-# otherwise print "Short".
+# Create a function called count_above_10(numbers).
+# It should return how many numbers in the list are above 10.
+# Call it and print the result.

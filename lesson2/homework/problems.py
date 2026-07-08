@@ -1,31 +1,27 @@
 # Problem 1
-# Ask the user for a sentence.
-# Print how many words it has.
-# (Hint: split the sentence by spaces)
+# Ask the user for a word.
+# Print the word reversed using slicing.
 
 
 
 # Problem 2
-# Ask the user for a word.
-# Build a new string that turns every vowel into "*".
-# Example: "hello" -> "h*ll*"
+# Ask the user for a word and a letter.
+# Print how many times the letter appears in the word (case-insensitive).
 
 
 
 # Problem 3
-# Ask the user for a word.
-# Print the first index where the letter "a" appears.
-# If there is no "a", print -1.
+# Ask the user for a first name and a last name.
+# Print their initials (first letter of first name + first letter of last name).
 
 
 
 # Problem 4
-# Ask the user for two words.
-# Print the longer word. If they are the same length, print "Tie".
+# Ask the user for a sentence.
+# Replace all spaces with underscores and print the result.
 
 
 
 # Problem 5
-# Ask the user for a phrase.
-# Build a new string that keeps only letters (remove spaces and punctuation).
-# For this problem, remove commas and periods too.
+# Ask the user for a word.
+# Build a new string that contains ONLY the letters at odd indexes (1, 3, 5, ...).

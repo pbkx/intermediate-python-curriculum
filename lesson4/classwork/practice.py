@@ -24,7 +24,7 @@
 
 
 # Problem 4
-# Create a dictionary called phonebook with names and phone numbers.
+# Create a dictionary called phonebook with 3 names and phone numbers.
 # Ask the user for a name and print the phone number if it exists.
 # Otherwise print "Unknown contact".
 

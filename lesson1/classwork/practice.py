@@ -1,28 +1,30 @@
 # Problem 1
-# Ask the user for a word.
-# Print the first 3 letters, and then print the last 3 letters.
+# Ask the user for their name and age.
+# Print a sentence that uses both variables.
 
 
 
 # Problem 2
-# Ask the user for a sentence.
-# Print it in all caps, then print it in all lowercase.
+# Ask the user for a number.
+# Print "Positive" if it is more than 0.
+# Print "Zero" if it is equal to 0.
+# Otherwise print "Negative".
 
 
 
 # Problem 3
-# Ask the user for a first name and a last name.
-# Print their initials (first letter of first name + first letter of last name).
+# Create a list of 5 numbers.
+# Print the sum of all numbers in the list.
 
 
 
 # Problem 4
-# Ask the user for a sentence.
-# Replace all spaces with underscores and print the result.
+# Create a list of 5 animals.
+# Count how many times "cat" appears in the list.
 
 
 
 # Problem 5
-# Ask the user for a phrase.
-# Print "Contains python" if the word "python" appears anywhere (case-insensitive).
-# Otherwise print "No python found".
+# Create a function called bigger(a, b).
+# It should return the bigger number.
+# Call it and print the result.

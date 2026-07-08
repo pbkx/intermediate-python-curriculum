@@ -9,17 +9,16 @@
 
 
 # Problem 3
-# Ask the user for a number n.
-# Print the sum of all numbers from 1 to n (including n).
+# Build a list of the numbers from 1 to 10.
+# Print the list.
 
 
 
 # Problem 4
-# Print a countdown from 10 to 1 (10, 9, 8, ... 1).
+# Use nested loops to print a 4 by 3 rectangle of stars.
 
 
 
 # Problem 5
-# Ask the user for a word.
-# Print each character with its index on a new line.
-# Example: 0 h, 1 e, 2 l, ...
+# Create a 2D list of numbers.
+# Print the sum of all numbers in the 2D list.

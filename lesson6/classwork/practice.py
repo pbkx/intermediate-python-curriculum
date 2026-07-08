@@ -1,29 +1,32 @@
 # Problem 1
-# Create a tuple called colors with 3 colors.
-# Print the first color and the last color.
+# Create a function called sum_list(numbers).
+# It should return the sum of all numbers in the list.
+# Call it and print the result.
 
 
 
 # Problem 2
-# Create a tuple called location with (city, state).
-# Unpack it into city and state variables and print them.
+# Create a function called count_letter(word, letter).
+# It should return how many times letter appears in word.
+# Call it and print the result.
 
 
 
 # Problem 3
-# Create a list of tuples called points with 3 points:
-# (0, 0), (2, 5), (4, 1)
-# Loop through points and print each x and y.
+# Create a function called get_score(scores, name).
+# scores is a dictionary.
+# Return the score for name, or return -1 if name is not in the dictionary.
 
 
 
 # Problem 4
-# Ask the user for two numbers.
-# Store them in a tuple and print the tuple.
+# Create a function called first_and_last(word).
+# It should return the first and last letter of the word.
+# Call it, unpack the results, and print both.
 
 
 
 # Problem 5
-# Create a function called add_and_multiply(a, b).
-# It should return (a + b, a * b) as a tuple.
-# Call it and unpack the results, then print both.
+# Create a helper function called is_positive(num).
+# Create another function called count_positive(numbers).
+# count_positive should use is_positive to count how many numbers are positive.

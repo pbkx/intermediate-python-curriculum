@@ -1,40 +1,30 @@
 # Problem 1
-# Create a class called BankAccount.
-# __init__ takes owner and balance.
-# Make a method deposit(amount) that adds to balance.
-# Make a method withdraw(amount) that subtracts only if there is enough money.
-# Test it with a few deposits and withdrawals.
+# Create a tuple called scores with 4 numbers.
+# Print the average score.
 
 
 
 # Problem 2
-# Create a class called Car.
-# __init__ takes model and miles.
-# Make a method drive(distance) that adds to miles.
-# Create a Car and drive it a few times, printing miles each time.
+# Create a list of tuples representing students:
+# ("Ava", 95), ("Ben", 88), ("Kai", 73)
+# Print the name of the student with the highest score.
 
 
 
 # Problem 3
-# Create a class called ScoreKeeper.
-# It stores a dictionary of player scores.
-# Make a method add_points(name, points) that adds points for that player.
-# Print the final dictionary after adding points for a few players.
+# Create a list of words.
+# Sort it alphabetically, then print it.
+# Then sort it by length, then print it.
 
 
 
 # Problem 4
-# Create a class called Timer.
-# It starts at 0 seconds.
-# Make a method tick() that adds 1.
-# Make a method reset() that sets it back to 0.
-# Test tick() and reset().
+# Create a list of tuples where each tuple is (word, length_of_word).
+# Sort the list and print it.
 
 
 
 # Problem 5
-# Create a class called WordTracker.
-# It stores a word (string).
-# Make a method add_letter(letter) that adds the letter to the end.
-# Make a method remove_last() that removes the last letter (if it exists).
-# Test it.
+# Create a list of tuples called players.
+# Each tuple should have (name, score).
+# Sort the players from highest score to lowest score and print the list.

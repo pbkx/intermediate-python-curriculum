@@ -1,31 +1,55 @@
 # Sova Coding Intermediate Python Curriculum
 
 ## Overview
-This curriculum builds on Trimester 1 and focuses on writing cleaner programs, using more data structures, and creating bigger projects.
+This curriculum is designed for intermediate learners of Python programming, gradually introducing concepts across 6 lessons.
 It includes **practice problems**, **examples**, and **homework** to reinforce learning.
 
 The lessons cover:
-1. Strings (slicing, functions, shortcuts)
-2. String algorithms and string building
-3. `range()` (start, stop, step)
+1. Review of beginner Python
+2. Strings (slicing, functions, shortcuts, algorithms, building)
+3. `range()` (start, stop, step), nested loops, and 2D lists
 4. Dictionaries
-5. Classes
-6. Tuples
-7. Turtle introduction + first drawing
-8. More turtle (colors, fills, positioning)
-9. More turtle (functions, patterns, mini-project)
-10. Final problem set (10 problems with points)
+5. Tuples and sorting
+6. More functions
+
+---
+
+## How to Use
+- **Teacher-led instruction is required.**  
+- The teacher will **explain the concepts** using the sample code provided in each lesson.  
+- After instruction, students complete **problem sets** for practice.  
+- The problems **do not** contain answers: students are expected to attempt solutions themselves.  
+- Teachers may give hints but encourage independent problem-solving.  
+
+### Using Codespaces
+1. Open the repository in **GitHub Codespaces** by clicking the green **Code** button on the repo page and selecting **Codespaces → New codespace**.  
+2. When prompted, select **2-core machine** for better performance.  
+3. This will launch a ready-to-use online development environment in your browser, with Python pre-installed.  
+4. Students can code directly in Codespaces without needing to install anything locally.  
+
+#### Saving Your Work in Codespaces
+1. When you make changes, they are saved automatically in the Codespaces environment, but **not yet in GitHub**.  
+2. In the left sidebar, click the **Source Control** icon (or press `Ctrl+Shift+G` / `Cmd+Shift+G`).  
+3. Write a short description of what you changed in the **message box** (e.g., "Completed Lesson 2 Homework").  
+4. Click the **✓ Commit** button.  
+5. Click **Sync Changes** (🔄) to upload your work to GitHub so your teacher can see it.  
+
+#### Shutting Down Codespaces
+- Always shut down your Codespace after use to save resources:  
+  - Go to the **Codespaces** tab on GitHub (under your profile).  
+  - Find the running Codespace.  
+  - Click the **⋯** menu and select **Stop Codespace**.  
 
 ### Sharing with Teachers via Live Share
-- Inside Codespaces, open the **Command Palette** (`Ctrl+Shift+P` or `Cmd+Shift+P` on Mac).
-- Search for **Live Share: Start Collaboration Session**.
+- Inside Codespaces, open the **Command Palette** (`Ctrl+Shift+P` or `Cmd+Shift+P` on Mac).  
+- Search for **Live Share: Start Collaboration Session**.  
 - Copy the generated **Live Share link** and send it to your teacher so they can join your coding session in real-time.
 
 ---
 
 ## Structure
-- Each lesson has:
+- Each lesson has:  
   - **Sample code**
   - **Practice problems**
   - **Homework problems**
-- Lesson 10 only includes a problem set with **points per problem** based on difficulty.
+- Each lesson includes practice problems and homework problems.  
