@@ -2,13 +2,17 @@
 # Ask the user for a word.
 # Print the first 3 letters, and then print the last 3 letters.
 
-
+word = input("Please give me a word")
+print(word[:4])
+print(word[-3:])
 
 # Problem 2
 # Ask the user for a sentence.
 # Print it in all caps, then print it in all lowercase.
 
-
+sentence = input("Enter a sentence:")
+print(sentence.upper())
+print(sentence.lower())
 
 # Problem 3
 # Ask the user for a word.
